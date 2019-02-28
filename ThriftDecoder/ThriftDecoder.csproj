@@ -49,6 +49,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Thrift\Collections\TCollections.cs" />
+    <Compile Include="Thrift\Collections\THashSet.cs" />
     <Compile Include="Thrift\TApplicationException.cs" />
     <Compile Include="Thrift\TException.cs" />
     <Compile Include="Thrift\TProcessor.cs" />
